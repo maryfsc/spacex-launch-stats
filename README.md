@@ -14,5 +14,7 @@ I wanted to learn how to setup a GraphQL server and client from scratch and how 
 ### ToDo
 - Refactoring so the client uses only functional components
 - Find a way to deploy the app since I've run into some trouble
-- Adds some interesting dev tools such as Prettier, Eslint...
+- Add some interesting dev tools such as Prettier, Eslint...
 - Add TypeScript just for the sake of it
+
+This project was based on [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) tutorials. Check them out!
