@@ -10,11 +10,14 @@ I wanted to learn how to setup a GraphQL server and client from scratch and how 
 - [Apollo Client React](https://www.apollographql.com/docs/react/) for consuming queries
 - [React](https://reactjs.org/) for client app
 - [Bootsmash](https://bootswatch.com/) for visuals
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) to show some awesome data
 
 ### ToDo
 - Refactoring so the client uses only functional components
 - Find a way to deploy the app since I've run into some trouble
 - Add some interesting dev tools such as Prettier, Eslint...
 - Add TypeScript just for the sake of it
+
+### Disclaimer
 
 This project was based on [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) tutorials. Check them out!
